@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #0013ff;
+}
+
+h1 {
+    font-family: "avenir", sans-serif;
+    text-transform: lowercase;
+    font-weight: 900;
+    font-size: 40px;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+}
+
+.inputSection {
+    margin: 50px 0px 80px 0px;
+    width: 400px;
+}
+.inputs {
+    width: inherit;
+    display: flex;
+    flex-direction: column;
+}
