@@ -19,6 +19,7 @@ h1 {
     margin: 50px 0px 80px 0px;
     width: 400px;
 }
+
 .inputs {
     width: inherit;
     display: flex;
@@ -31,4 +32,12 @@ input {
 
 .addOption {
     margin-top: 10px;
+}
+
+.resultSection {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
 }
